@@ -1,0 +1,1 @@
+{"menu": {"1": {"id": 1, "name": "Pizza", "price": 10.99, "availability": true}, "2": {"id": 2, "name": "Burger", "price": 5.99, "availability": true}, "3": {"id": 3, "name": "Pasta", "price": 7.99, "availability": false}}, "orders": {"1": {"customer_name": "John Doe", "order_items": ["1", "2"], "status": "Done", "total_price": 16.98}}}
